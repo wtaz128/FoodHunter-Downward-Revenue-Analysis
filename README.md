@@ -12,7 +12,8 @@ As a Business Analyst, I resolve this problem by following steps:
 4. Make a final statement about the analysis result and visualize a dashboard for stakeholder's discussion
 
 ### **Tools and Methodologies**  
-MySQL  
+MySQL 
+VScode
 Power Bi
 Root Cause Analysis(RCA)
 ### Data Modeling and Preparation
@@ -99,4 +100,5 @@ Based on the analysis above, I can conclude that there are 4 significant indicat
 3. Food & Restaurants Quality  
 4. Customers Bad Reviews  
 
-For a thorough and deeper understanding into these problems in the future, we need more data provided from other departments to analyse and make final actionable decisions. For example, we need more data about Customer Bad Reviews to find out which part of our app's service makes bad feeling to customers. Bad food taste? Poor restaurants selection? Unsatisfying delivery service? and so on.
+For a thorough and deeper understanding into these problems in the future, we need more data provided from other departments to analyse and make final actionable decisions. For example, we need more data about Customer Bad Reviews to find out which part of our app's service makes bad feeling to customers. Bad food taste? Poor restaurants selection? Unsatisfying delivery service? and so on.  
+

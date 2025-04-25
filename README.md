@@ -14,7 +14,6 @@ As a Business Analyst, I resolve this problem by following steps:
 ### **Tools and Methodologies**  
 MySQL 
 VScode
-Power Bi
 Root Cause Analysis(RCA)
 ### Data Modeling and Preparation
 <img width="1217" alt="data model" src="https://github.com/user-attachments/assets/e820f340-7515-48c5-a3ee-c0721138695b" />

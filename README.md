@@ -1,4 +1,4 @@
-# **FoodHunter Downward Revenue Ananlysis**
+# **FoodHunter Downward Revenue Analysis**
 ### **Business Problem Statement**
 FoodHunter is a food delivery app known for its diverse restaurants options with multiple cuisines and quick delivery. They have been facing a consistent downward trend in their monthly revenues in the last quarter.
 *The sales team wish to understand the different factors that are negatively impacting their business.*     
